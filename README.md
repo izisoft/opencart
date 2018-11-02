@@ -3,7 +3,7 @@
  
 
 ### Cài đặt
-composer require --prefer-dist izisoft/yii2-web "dev-master"
+composer require --prefer-dist izisoft/opencart "dev-master"
 
 ### Chức năng
 -------------
